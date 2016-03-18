@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86edef84-b255-4206-897e-97fd001b6fe3" name="inspiredescapes.com" url="http://local.inspiredescapes.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
