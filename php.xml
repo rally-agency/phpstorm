@@ -12,7 +12,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Imperial Hotels">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="192.168.56.1 51804 22" version="5.5.33-1+deb.sury.org~trusty+1">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="192.168.56.1 55687 22" version="5.5.33-1+deb.sury.org~trusty+1">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-mysqlnd.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-intl.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mcrypt.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/zzzz_custom.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -202,7 +202,7 @@
             <configuration_option name="session.entropy_file" value="/dev/urandom" />
             <configuration_option name="session.entropy_length" value="32" />
             <configuration_option name="session.gc_divisor" value="1000" />
-            <configuration_option name="session.gc_maxlifetime" value="1440" />
+            <configuration_option name="session.gc_maxlifetime" value="60" />
             <configuration_option name="session.gc_probability" value="0" />
             <configuration_option name="session.hash_bits_per_character" value="5" />
             <configuration_option name="session.hash_function" value="0" />
