@@ -7,6 +7,9 @@
       <webServer id="7c1d0970-8a59-4695-a972-0222ebd81f1f" name="http://local.sendaidhome.com" url="http://local.sendaidhome.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="65a1c3d0-e199-4f60-a416-60d74081469f" name="http://local.ccparking.co.uk" url="http://local.ccparking.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
