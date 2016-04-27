@@ -1,36 +1,33 @@
 <code_scheme name="Default (1)">
-  <PHPCodeStyleSettings>
-    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
-    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
-    <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
-    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
-    <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
-    <option name="NAMESPACE_BRACE_STYLE" value="2" />
-  </PHPCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
+  </JSCodeStyleSettings>
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="PHP">
-    <option name="BLANK_LINES_AFTER_PACKAGE" value="2" />
-    <option name="BLANK_LINES_BEFORE_IMPORTS" value="2" />
-    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
-    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
-    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
-    <option name="FINALLY_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
-    <option name="DOWHILE_BRACE_FORCE" value="3" />
-    <option name="WHILE_BRACE_FORCE" value="3" />
-    <option name="FOR_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Twig">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
