@@ -13,6 +13,9 @@
       <webServer id="5b660332-d241-4c2c-b4b5-7f32366b2171" name="http://local.sog.org.uk" url="http://local.sog.org.uk">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="968597b2-f134-454d-be9c-f7579b54c11f" name="local.modernartbuyer.com" url="http://local.modernartbuyer.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
