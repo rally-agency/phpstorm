@@ -3,12 +3,14 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
