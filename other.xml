@@ -50,4 +50,7 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node" excluded="true" />
   </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
 </application>
