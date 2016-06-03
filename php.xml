@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@192.168.10.10:22/usr/bin/php" id="00551f36-7989-4b79-bcaa-dc817d99c59b" name="Homestead" debugger_id="php.debugger.XDebug">
