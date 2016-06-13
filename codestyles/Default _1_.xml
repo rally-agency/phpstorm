@@ -1,30 +1,8 @@
 <code_scheme name="Default (1)">
-  <JSCodeStyleSettings>
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
-  </JSCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
-  <codeStyleSettings language="JavaScript">
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
-    <option name="IF_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Twig">
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
