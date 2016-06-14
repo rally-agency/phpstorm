@@ -16,9 +16,6 @@
       <webServer id="968597b2-f134-454d-be9c-f7579b54c11f" name="local.modernartbuyer.com" url="http://local.modernartbuyer.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="d028d2a4-7483-482b-958d-242f4ceddf20" name="http://local.managementfutures.co.uk" url="http://local.managementfutures.co.uk">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
