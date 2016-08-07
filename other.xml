@@ -51,6 +51,8 @@
     <local-interpreter path="/usr/local/bin/node" />
   </component>
   <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
