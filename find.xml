@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ee/expressionengine/third_party/sog/libraries/sog_core.class.php - [sog.org.uk]'" />
-    <option name="defaultScopeName" value="File '.../ee/expressionengine/third_party/sog/libraries/sog_core.class.php - [sog.org.uk]'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../ee/expressionengine/third_party/sog/libraries/sog_core.class.php - [sog.org.uk]'" />
+    <option name="customScope" value="Templates" />
+    <option name="defaultScopeName" value="Templates" />
+    <option name="SEARCH_SCOPE" value="Templates" />
   </component>
 </application>
