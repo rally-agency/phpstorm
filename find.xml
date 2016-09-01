@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '.../deploy/craft/plugins/micros/controllers/Micros_PaymentController.php - [imperialhotels.co.uk]'" />
     <option name="defaultScopeName" value="File '.../deploy/craft/plugins/micros/controllers/Micros_PaymentController.php - [imperialhotels.co.uk]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../deploy/craft/plugins/micros/controllers/Micros_PaymentController.php - [imperialhotels.co.uk]'" />
   </component>
 </application>
