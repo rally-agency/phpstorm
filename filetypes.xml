@@ -1,14 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="email-fta1" type="PLAIN_TEXT" />
-      <mapping pattern="email-consulation-booked" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="email-consulation-booked1.blade.php" type="PLAIN_TEXT" />
-      <mapping pattern="email-treatment-started1" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
-      <mapping pattern="updateFavicon" type="TypeScript" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="snip" type="XHTML" />
     </extensionMap>
   </component>
