@@ -16,6 +16,9 @@
       <webServer id="968597b2-f134-454d-be9c-f7579b54c11f" name="local.modernartbuyer.com" url="http://local.modernartbuyer.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="22e2ee49-cf7b-4505-8a1b-c8fc3b3f145f" name="http://local.invisalignpromotions.eu" url="http://local.invisalignpromotions.eu">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
