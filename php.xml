@@ -1326,4 +1326,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="00551f36-7989-4b79-bcaa-dc817d99c59b" load_method="CUSTOM_LOADER" custom_loader_path="/home/vagrant/sites/dengro.com/application/vendor/autoload.php" phpunit_phar_path="/home/vagrant/sites/dengro.com/application/vendor/phpunit/phpunit/phpunit" />
+    </phpunit_settings>
+  </component>
 </application>
