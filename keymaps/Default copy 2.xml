@@ -3,7 +3,10 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Refresh" />
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
