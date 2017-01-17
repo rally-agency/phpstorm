@@ -12,6 +12,7 @@
       <mapping ext="twi" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern="_free_issue_advert" type="Twig" />
       <mapping ext="snip" type="XHTML" />
     </extensionMap>
   </component>
