@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../deploy/craft/plugins/micros/controllers/Micros_PaymentController.php - [imperialhotels.co.uk]'" />
-    <option name="defaultScopeName" value="File '.../deploy/craft/plugins/micros/controllers/Micros_PaymentController.php - [imperialhotels.co.uk]'" />
-    <option name="SEARCH_SCOPE" value="File '.../deploy/craft/plugins/micros/controllers/Micros_PaymentController.php - [imperialhotels.co.uk]'" />
+    <option name="customScope" value="File '.../deploy/craft/templates/hotels/_partials/hotels_overview.twig - [imperialhotels.co.uk]'" />
+    <option name="defaultScopeName" value="File '.../deploy/craft/templates/hotels/_partials/hotels_overview.twig - [imperialhotels.co.uk]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../deploy/craft/templates/hotels/_partials/hotels_overview.twig - [imperialhotels.co.uk]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +16,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*.twig</mask>
       <mask>*.phtml</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
