@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../deploy/craft/templates/hotels/_partials/hotels_overview.twig - [imperialhotels.co.uk]'" />
-    <option name="defaultScopeName" value="File '.../deploy/craft/templates/hotels/_partials/hotels_overview.twig - [imperialhotels.co.uk]'" />
-    <option name="SEARCH_SCOPE" value="File '.../deploy/craft/templates/hotels/_partials/hotels_overview.twig - [imperialhotels.co.uk]'" />
+    <option name="customScope" value="File '.../testing/mjml/example.mjml - [edms]'" />
+    <option name="defaultScopeName" value="File '.../testing/mjml/example.mjml - [edms]'" />
+    <option name="SEARCH_SCOPE" value="File '.../testing/mjml/example.mjml - [edms]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
