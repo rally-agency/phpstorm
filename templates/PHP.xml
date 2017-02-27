@@ -1,9 +1,0 @@
-<templateSet group="PHP">
-  <template name="q" value="'$s$' =&gt; '$t$'," description="Blank Array Key Value" toReformat="false" toShortenFQNames="true">
-    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="t" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
