@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="File '.../craft/plugins/activate/helpers/route_helper.php - [invisalign-activate]'" />
+    <option name="defaultScopeName" value="File '.../craft/plugins/activate/helpers/route_helper.php - [invisalign-activate]'" />
+    <option name="SEARCH_SCOPE" value="File '.../craft/plugins/activate/helpers/route_helper.php - [invisalign-activate]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
