@@ -9,9 +9,9 @@
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
       <option name="SQL" value="false" />
-      <option name="JSON" value="false" />
     </context>
   </template>
   <template name="!tfp" value="trans('fields.placeholders.$s$')" description="Trans Fields Label Without {{ }}" toReformat="false" toShortenFQNames="true">
@@ -24,9 +24,9 @@
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
       <option name="SQL" value="false" />
-      <option name="JSON" value="false" />
     </context>
   </template>
   <template name="tfl" value="{{ trans('fields.labels.$s$') }}" description="Trans Fields Label" toReformat="false" toShortenFQNames="true">
