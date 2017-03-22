@@ -19,6 +19,9 @@
       <webServer id="22e2ee49-cf7b-4505-8a1b-c8fc3b3f145f" name="http://local.invisalignpromotions.eu" url="http://local.invisalignpromotions.eu">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="484ab0de-606d-4454-af65-89b83c2b458c" name="https://local.invisalign-activate.rallyagency.co.uk" url="https://local.invisalign-activate.rallyagency.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
