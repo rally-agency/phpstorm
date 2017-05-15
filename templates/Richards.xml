@@ -1,0 +1,16 @@
+<templateSet group="Richards">
+  <template name="mmin" value="@media screen and (min-width: $VAR1$) {&#10;    $VAR2$&#10;}" description="Media query min" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="'$screen-md'" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="mmax" value="@media screen and (max-width: $VAR1$) {&#10;    $VAR2$&#10;}" description="Media query max" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="'$screen-md'" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
