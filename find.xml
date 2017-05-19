@@ -14,9 +14,15 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.phtml</mask>
-      <mask>*.twig</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
