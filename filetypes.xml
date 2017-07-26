@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="email-password-reset" type="PLAIN_TEXT" />
+      <mapping pattern="_form_builder.twig" type="PLAIN_TEXT" />
       <mapping pattern="treatment-started-katy-edwards.html" type="PLAIN_TEXT" />
       <mapping pattern=".gulpfile" type="PLAIN_TEXT" />
       <mapping pattern="dashboard-prototype.blade.php" type="PLAIN_TEXT" />
