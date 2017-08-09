@@ -8,14 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.p</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>b</mask>
       <mask>bloade</mask>
       <mask>bload</mask>
@@ -38,6 +32,12 @@
       <mask>*.bladphp</mask>
       <mask>*.bladephp</mask>
       <mask>*.blade.php</mask>
+      <mask>*.w</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
