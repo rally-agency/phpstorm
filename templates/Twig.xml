@@ -1,0 +1,7 @@
+<templateSet group="Twig">
+  <template name="|t" value="{{ '$END$' | t }}" description="translation block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
