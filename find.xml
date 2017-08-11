@@ -7,10 +7,9 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.js</mask>
-      <mask>*.p</mask>
       <mask>b</mask>
       <mask>bloade</mask>
       <mask>bload</mask>
@@ -26,7 +25,6 @@
       <mask>blade.php</mask>
       <mask>.blade.php</mask>
       <mask>.php</mask>
-      <mask>*.php</mask>
       <mask>*.bphp</mask>
       <mask>*.blphp</mask>
       <mask>*.blaphp</mask>
@@ -39,6 +37,8 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
