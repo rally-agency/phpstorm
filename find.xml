@@ -1,16 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>blad</mask>
-      <mask>blade</mask>
-      <mask>blade.</mask>
-      <mask>blade.p</mask>
       <mask>blade.ph</mask>
       <mask>blade.php</mask>
       <mask>.blade.php</mask>
@@ -23,12 +17,6 @@
       <mask>*.blade.php</mask>
       <mask>*.w</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.ssc</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
@@ -37,6 +25,16 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twifg</mask>
+      <mask>*.twif</mask>
+      <mask>*.twi=g</mask>
+      <mask>*.twi=</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
