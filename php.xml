@@ -3,23 +3,23 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@192.168.10.10:22/usr/bin/php" id="00551f36-7989-4b79-bcaa-dc817d99c59b" name="Homestead" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.10.10" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.10.10" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://vagrant@192.168.56.116:22/usr/bin/php" id="a9da1f89-e82f-491f-87ee-7bbb339dd9c3" name="Imperial Hotels (Vagrant)" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.56.116" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/VagrantSites/Shomei/imperialhotels.co.uk/puphpet/files/dot/ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.56.116" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/VagrantSites/Shomei/imperialhotels.co.uk/puphpet/files/dot/ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://forge@178.62.81.231:22/usr/bin/php" id="b4ee1887-27dd-4a98-8782-189dfb29d787" name="blessed-sunrise" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="178.62.81.231" PORT="22" ANONYMOUS="false" USERNAME="forge" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/forge/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="178.62.81.231" PORT="22" USERNAME="forge" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/forge/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="/Applications/MAMP/bin/php/php7.0.13/bin/php" id="66d29611-be32-4d4f-88ab-b87e54a410cb" name="MAMP PRO PHP v7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.1.6/bin/php" id="66d29611-be32-4d4f-88ab-b87e54a410cb" name="MAMP PRO PHP v7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="MAMP PRO PHP v7">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.13/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.13/bin/php" path_separator=":" version="7.0.13">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.6/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.6/bin/php" path_separator=":" version="7.1.6">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.0.13/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.1.6/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -68,14 +68,14 @@
             <configuration_option name="exif.decode_unicode_motorola" value="UCS-2BE" />
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
-            <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.6/lib/php/extensions/no-debug-non-zts-20160303/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
-            <configuration_option name="gd.jpeg_ignore_warning" value="0" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="1" />
+            <configuration_option name="hard_timeout" value="2" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
             <configuration_option name="highlight.html" value="#000000" />
@@ -89,7 +89,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.0.13/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.6/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -162,7 +162,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="32M" />
             <configuration_option name="precision" value="12" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -179,19 +179,19 @@
             <configuration_option name="session.cookie_lifetime" value="0" />
             <configuration_option name="session.cookie_path" value="/" />
             <configuration_option name="session.cookie_secure" value="" />
-            <configuration_option name="session.entropy_file" value="" />
-            <configuration_option name="session.entropy_length" value="0" />
             <configuration_option name="session.gc_divisor" value="100" />
             <configuration_option name="session.gc_maxlifetime" value="1440" />
             <configuration_option name="session.gc_probability" value="1" />
-            <configuration_option name="session.hash_bits_per_character" value="4" />
-            <configuration_option name="session.hash_function" value="0" />
             <configuration_option name="session.lazy_write" value="1" />
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
             <configuration_option name="session.save_path" value="/Applications/MAMP/tmp/php" />
             <configuration_option name="session.serialize_handler" value="php" />
+            <configuration_option name="session.sid_bits_per_character" value="4" />
+            <configuration_option name="session.sid_length" value="32" />
+            <configuration_option name="session.trans_sid_hosts" value="" />
+            <configuration_option name="session.trans_sid_tags" value="a=href,area=href,frame=src,form=" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
             <configuration_option name="session.upload_progress.freq" value="1%" />
@@ -216,6 +216,7 @@
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="32M" />
             <configuration_option name="upload_tmp_dir" value="/Applications/MAMP/tmp/php" />
+            <configuration_option name="url_rewriter.hosts" value="" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=,fieldset=" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
@@ -229,6 +230,7 @@
             <configuration_option name="zend.enable_gc" value="1" />
             <configuration_option name="zend.multibyte" value="0" />
             <configuration_option name="zend.script_encoding" value="" />
+            <configuration_option name="zend.signal_check" value="0" />
             <configuration_option name="zlib.output_compression" value="" />
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
@@ -282,6 +284,7 @@
             <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
+            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
@@ -290,7 +293,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Homestead">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="192.168.10.1 52492 22" version="5.6.13-1+deb.sury.org~trusty+3">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="192.168.10.1" version="5.6.13-1+deb.sury.org~trusty+3">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-mysqlnd.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-apcu.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-gmp.ini, /etc/php5/cli/conf.d/20-imap.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mailparse.ini, /etc/php5/cli/conf.d/20-mcrypt.ini, /etc/php5/cli/conf.d/20-memcached.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-pdo_pgsql.ini, /etc/php5/cli/conf.d/20-pdo_sqlite.ini, /etc/php5/cli/conf.d/20-pgsql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-sqlite3.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/90-blackfire.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -718,7 +721,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="blessed-sunrise">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="81.134.29.83 56505 22" version="5.6.22-1+donate.sury.org~trusty+1">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="81.134.29.83" version="5.6.22-1+donate.sury.org~trusty+1">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-mysqlnd.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-apcu.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-gmp.ini, /etc/php5/cli/conf.d/20-imap.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mcrypt.ini, /etc/php5/cli/conf.d/20-memcached.ini, /etc/php5/cli/conf.d/20-mongo.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-newrelic.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-pdo_pgsql.ini, /etc/php5/cli/conf.d/20-pdo_sqlite.ini, /etc/php5/cli/conf.d/20-pgsql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-sqlite3.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/90-blackfire.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -1238,7 +1241,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Imperial Hotels (Vagrant)">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="192.168.56.1 64221 22" version="5.5.35-1+donate.sury.org~trusty+1">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="192.168.56.1" version="5.5.35-1+donate.sury.org~trusty+1">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-mysqlnd.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-intl.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mcrypt.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/zzzz_custom.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
