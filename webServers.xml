@@ -25,6 +25,9 @@
       <webServer id="312b2cc9-f806-409f-9cc0-0469df73b9be" name="https://local.invisalign-activate.com" url="https://local.invisalign-activate.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f3ff4279-3286-44fb-b8cc-22379c078ab8" name="http://local.capture.dengro.com" url="http://local.capture.dengro.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
