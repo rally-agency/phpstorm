@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="json" type="JSON" />
       <mapping pattern="email-password-reset" type="PLAIN_TEXT" />
       <mapping pattern="_form_builder.twig" type="PLAIN_TEXT" />
       <mapping pattern="treatment-started-katy-edwards.html" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
+      <mapping ext="json" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="twi" type="PLAIN_TEXT" />
