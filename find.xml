@@ -3,15 +3,10 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>b</mask>
       <mask>bloade</mask>
       <mask>bload</mask>
       <mask>bloa</mask>
@@ -38,6 +33,10 @@
       <mask>*.twi.php</mask>
       <mask>*.twig.php</mask>
       <mask>*.twig</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
