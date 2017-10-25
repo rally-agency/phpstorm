@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>bloade</mask>
-      <mask>bload</mask>
-      <mask>bloa</mask>
       <mask>blo</mask>
       <mask>bl</mask>
       <mask>bla</mask>
@@ -31,11 +29,14 @@
       <mask>*.tw.php</mask>
       <mask>*.twi.php</mask>
       <mask>*.twig.php</mask>
-      <mask>*.twig</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
