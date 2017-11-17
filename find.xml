@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>blo</mask>
-      <mask>bl</mask>
-      <mask>bla</mask>
-      <mask>blad</mask>
       <mask>blade</mask>
       <mask>blade.</mask>
       <mask>blade.p</mask>
@@ -34,6 +30,10 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.log</mask>
     </recentFileMasks>
   </component>
 </application>
