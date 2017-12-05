@@ -28,6 +28,9 @@
       <webServer id="f3ff4279-3286-44fb-b8cc-22379c078ab8" name="http://local.capture.dengro.com" url="http://local.capture.dengro.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4a63638c-30b5-4ec5-8d45-fa490d7bb771" name="https://local.conf2018.mismile.co.uk" url="https://local.conf2018.mismile.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
