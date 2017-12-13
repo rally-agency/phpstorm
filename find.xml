@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>blade</mask>
       <mask>blade.</mask>
       <mask>blade.p</mask>
       <mask>blade.ph</mask>
@@ -22,10 +21,6 @@
       <mask>*.tw.php</mask>
       <mask>*.twi.php</mask>
       <mask>*.twig.php</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
@@ -34,6 +29,11 @@
       <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.log</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>.scss</mask>
     </recentFileMasks>
   </component>
 </application>
