@@ -63,7 +63,6 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="2" />
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
