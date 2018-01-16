@@ -4,7 +4,6 @@
       <mapping pattern="Dashboard_Task_FollowUpLead_NotInterested" type="PHP" />
       <mapping pattern="SubscribeToWebhooksRequest" type="PHP" />
       <mapping pattern="attention-required" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="_form_builder.twig" type="PLAIN_TEXT" />
       <mapping pattern="treatment-started-katy-edwards.html" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
@@ -23,7 +22,6 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping pattern="_free_issue_advert" type="Twig" />
       <mapping ext="snip" type="XHTML" />
