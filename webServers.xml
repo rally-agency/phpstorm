@@ -31,6 +31,9 @@
       <webServer id="4a63638c-30b5-4ec5-8d45-fa490d7bb771" name="https://local.conf2018.mismile.co.uk" url="https://local.conf2018.mismile.co.uk">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7a44c8e1-0bdd-41e9-aa9c-d95eebafdbf2" name="https://local.store.instasmile.com" url="https://local.store.instasmile.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
