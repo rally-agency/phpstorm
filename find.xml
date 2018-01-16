@@ -6,9 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>blade.</mask>
-      <mask>blade.p</mask>
-      <mask>blade.ph</mask>
       <mask>blade.php</mask>
       <mask>.blade.php</mask>
       <mask>.php</mask>
@@ -36,6 +33,9 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>.scss</mask>
+      <mask>.</mask>
+      <mask>.t</mask>
+      <mask>.twig</mask>
     </recentFileMasks>
   </component>
 </application>
