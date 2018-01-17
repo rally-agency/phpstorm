@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../craft/plugins/insta [craft.dev]'" />
+    <option name="defaultScopeName" value="Directory '.../craft/plugins/insta [craft.dev]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../craft/plugins/insta [craft.dev]'" />
     <recentFileMasks>
       <mask>blade.php</mask>
       <mask>.blade.php</mask>
