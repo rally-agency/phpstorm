@@ -1,5 +1,6 @@
 <code_scheme name="Default">
-  <option name="RIGHT_MARGIN" value="300" />
+  <option name="RIGHT_MARGIN" value="180" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
@@ -26,7 +27,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="160" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -63,6 +63,7 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="2" />
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
@@ -86,7 +87,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
-    <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
