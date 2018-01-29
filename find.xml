@@ -6,7 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.blade.php</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
       <mask>*.bphp</mask>
@@ -22,7 +21,6 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.l</mask>
@@ -31,11 +29,13 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>.</mask>
       <mask>.t</mask>
-      <mask>.twig</mask>
       <mask>twig</mask>
       <mask>.scss</mask>
+      <mask>.</mask>
+      <mask>.tw</mask>
+      <mask>.twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
