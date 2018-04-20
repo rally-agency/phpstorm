@@ -37,6 +37,9 @@
       <webServer id="12cebfcd-7b00-4fa7-934b-5ae48e1995ed" name="https://local.portmandentalcare.com" url="https://local.portmandentalcare.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="377be8a6-5b1a-4f02-bd43-ca2c8f15c1c6" name="https://local.ims.seblgroup.com" url="https://local.ims.seblgroup.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
