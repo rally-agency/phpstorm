@@ -3,41 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.bladephp</mask>
-      <mask>*.blade.php</mask>
-      <mask>*.t.php</mask>
-      <mask>*.tw.php</mask>
-      <mask>*.twi.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.log</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>.t</mask>
-      <mask>twig</mask>
-      <mask>.scss</mask>
-      <mask>.</mask>
-      <mask>.tw</mask>
-      <mask>.twig</mask>
-      <mask>*.twig.php</mask>
-      <mask>*.twig.ph</mask>
-      <mask>*.twig.p</mask>
-      <mask>*.twig.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-    </recentFileMasks>
   </component>
 </application>
