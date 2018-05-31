@@ -40,6 +40,9 @@
       <webServer id="377be8a6-5b1a-4f02-bd43-ca2c8f15c1c6" name="https://local.ims.seblgroup.com" url="https://local.ims.seblgroup.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7dd1c641-cd4d-4ed2-8e18-09baf338b7ba" name="https://local.safeorthodontics.com" url="https://local.safeorthodontics.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
