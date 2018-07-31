@@ -1,15 +1,21 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@192.168.10.10:22/usr/bin/php" id="00551f36-7989-4b79-bcaa-dc817d99c59b" name="Homestead" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.10.10" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.10.10" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://vagrant@192.168.56.116:22/usr/bin/php" id="a9da1f89-e82f-491f-87ee-7bbb339dd9c3" name="Imperial Hotels (Vagrant)" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.56.116" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/VagrantSites/Shomei/imperialhotels.co.uk/puphpet/files/dot/ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.56.116" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/VagrantSites/Shomei/imperialhotels.co.uk/puphpet/files/dot/ssh/id_rsa" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://forge@178.62.81.231:22/usr/bin/php" id="b4ee1887-27dd-4a98-8782-189dfb29d787" name="blessed-sunrise" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="178.62.81.231" PORT="22" USERNAME="forge" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/forge/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="178.62.81.231" PORT="22" USERNAME="forge" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/forge/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/Applications/MAMP/bin/php/php7.1.6/bin/php" id="66d29611-be32-4d4f-88ab-b87e54a410cb" name="MAMP PRO PHP v7" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.1.6/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
       <interpreter home="/Applications/MAMP/bin/php/php5.6.30/bin/php" id="aae6d5f3-e855-4e0f-b772-79604beb00d2" name="MAMP PRO PHP v5.6" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php5.6.30/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so" />
