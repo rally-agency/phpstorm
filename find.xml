@@ -14,8 +14,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.twig</mask>
+    <mask>*.scss</mask>
+    <mask>*.php</mask>
   </component>
 </application>
