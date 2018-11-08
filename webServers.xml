@@ -46,6 +46,9 @@
       <webServer id="b2bee51e-fe32-407f-97b3-ccd00cf05fbf" name="https://local.impactmarathon.com/" url="https://local.impactmarathon.com/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="74d37614-f5ac-4b21-851c-4704511677b6" name="https://local.dengro.com" url="https://local.dengro.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
