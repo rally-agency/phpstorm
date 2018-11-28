@@ -49,6 +49,9 @@
       <webServer id="74d37614-f5ac-4b21-851c-4704511677b6" name="https://local.dengro.com" url="https://local.dengro.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e916dedf-4843-4dfc-86aa-f3c44c8eea56" name="https://rallyagency.co.uk" url="https://rallyagency.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
