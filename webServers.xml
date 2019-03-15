@@ -52,6 +52,9 @@
       <webServer id="e916dedf-4843-4dfc-86aa-f3c44c8eea56" name="https://rallyagency.co.uk" url="https://rallyagency.co.uk">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6da2f95c-d5d5-49d6-9e14-56dd705c29f4" name="https://local.portmansmileclinic.co.uk" url="https://local.portmansmileclinic.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
