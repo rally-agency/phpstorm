@@ -55,6 +55,9 @@
       <webServer id="6da2f95c-d5d5-49d6-9e14-56dd705c29f4" name="https://local.portmansmileclinic.co.uk" url="https://local.portmansmileclinic.co.uk">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1bcd2e7b-ffab-4e25-a172-2880cfd840c6" name="https://local.portmandentalcare.com" url="https://local.portmandentalcare.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
