@@ -58,6 +58,9 @@
       <webServer id="1bcd2e7b-ffab-4e25-a172-2880cfd840c6" name="https://local.portmandentalcare.com" url="https://local.portmandentalcare.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c9eb48c6-5543-4f3a-81f1-2114eca89178" name="https://local.portmandentalcare.com" url="https://local.portmandentalcare.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
