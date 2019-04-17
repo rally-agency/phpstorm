@@ -1,29 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dashboard_Task_FollowUpLead_NotInterested" type="PHP" />
       <mapping pattern="SubscribeToWebhooksRequest" type="PHP" />
-      <mapping pattern="email-password-reset" type="PLAIN_TEXT" />
-      <mapping pattern=".gulpfile" type="PLAIN_TEXT" />
+      <mapping pattern="attention-required" type="PLAIN_TEXT" />
       <mapping pattern="_form_builder.twig" type="PLAIN_TEXT" />
-      <mapping pattern="dashboard-prototype.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="treatment-started-katy-edwards.html" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="components.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="attention-required" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="email-password-reset" type="PLAIN_TEXT" />
+      <mapping pattern="dashboard-prototype.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gulpfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
@@ -35,6 +26,16 @@
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping pattern="_free_issue_advert" type="Twig" />
       <mapping ext="snip" type="XHTML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
