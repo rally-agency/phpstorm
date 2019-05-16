@@ -61,6 +61,9 @@
       <webServer id="c9eb48c6-5543-4f3a-81f1-2114eca89178" name="https://local.portmandentalcare.com" url="https://local.portmandentalcare.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2ee0cffb-9f77-450b-b75b-33f86a363f1f" name="https://local.mismile-access.co.uk" url="https://local.mismile-access.co.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
