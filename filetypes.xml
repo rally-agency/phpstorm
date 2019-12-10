@@ -8,6 +8,7 @@
       <mapping pattern="_form_builder.twig" type="PLAIN_TEXT" />
       <mapping pattern="dashboard-prototype.blade.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="components.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
